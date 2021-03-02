@@ -1,4 +1,4 @@
-# Júnior Laranjeira
+# Carlos F. Laranjeira Jr
 
 ## Hello, you! 👋
 I'm Software Engineering student and apprentice in Front-end development, today my focus is on ReactJS.</br>
